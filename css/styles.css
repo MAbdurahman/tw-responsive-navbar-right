@@ -865,7 +865,7 @@ a.underline-hover-effect {
     padding: 16px 0 32px;
     --tw-bg-opacity: 1;
     background-color: hsl(210 29% 18% / var(--tw-bg-opacity));
-    transform: translate(-100%);
+    transform: translate(100%);
     /* to come from right; set translate(100%) */
   }
 
